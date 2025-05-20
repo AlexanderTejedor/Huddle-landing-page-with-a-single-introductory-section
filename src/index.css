@@ -5,8 +5,8 @@
     --color-soft-magenta: hsl(300, 69%, 71%);
 
     --font-display: "Open Sans", sans-serif;
-    --font-title: font-family: "Poppins", sans-serif;
+    --font-title:"Poppins", sans-serif;
 }
-* {
+body {
     background-color: hsl(257, 40%, 49%);
 }
